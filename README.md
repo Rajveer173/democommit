@@ -1,4 +1,4 @@
-# Python Hello Demo
+# democommit
 
 A simple Python demonstration project.
 
